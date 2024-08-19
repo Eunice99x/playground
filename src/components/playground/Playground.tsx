@@ -1,7 +1,7 @@
 export default function Playground() {
 	return (
 		<div className="wrapper w-full h-screen relative">
-			<ul className="ul-playground absolute text-[#85898b] font-bold left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 space-y-6">
+			<ul className="ul-playground absolute text-[#85898b] left-1/2 top-1/2 text-[14px] font-[600] font-serif transform -translate-x-1/2 -translate-y-1/2 space-y-6">
 				<li className="flex justify-between w-full">
 					<span>New Workspace</span>
 					<span>
